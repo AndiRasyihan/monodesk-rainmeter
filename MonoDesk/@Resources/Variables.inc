@@ -24,4 +24,4 @@ App4Path=explorer.exe
 App5Name=Word
 App5Path=winword
 App6Name=Buka Semua
-App6Path=C:\Users\Rasyihan's\Documents\gabut\BukaAplikasi.bat
+App6Path=D:\gabut\BukaAplikasi.bat
