@@ -5,14 +5,14 @@ jam, statistik sistem, launcher aplikasi, to-do list, bingkai foto, dan pemutar 
 
 ## Skin yang Tersedia
 
-| Skin | Fungsi |
-| ---- | ------ |
-| **Clock** | Jam + tanggal besar |
-| **Stats** | CPU, RAM, disk, jaringan real-time |
+| Skin         | Fungsi                                            |
+| ------------ | ------------------------------------------------- |
+| **Clock**    | Jam + tanggal besar                               |
+| **Stats**    | CPU, RAM, disk, jaringan real-time                |
 | **Launcher** | 6 pintasan aplikasi dengan ikon monokrom otomatis |
-| **TodoList** | Daftar tugas yang bisa dicentang |
-| **Photo** | Bingkai foto dengan tab judul |
-| **Music** | Kontrol & info pemutar musik |
+| **TodoList** | Daftar tugas yang bisa dicentang                  |
+| **Photo**    | Bingkai foto dengan tab judul                     |
+| **Music**    | Kontrol & info pemutar musik                      |
 
 ## Fitur Khas
 
